@@ -1,7 +1,7 @@
 ## Mini RAG
 
 Author: [Felipe Gonzalez Roldan](https://felipeg17.github.io/index.html)<br>
-Repo: [mini-rag](https://github.com/felipe-roldan/mini-rag)<br>
+Repo: [mini-rag](https://github.com/felipeg17/mini-rag)<br>
 
 ### Description
 
